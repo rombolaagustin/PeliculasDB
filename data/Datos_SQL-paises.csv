@@ -1,0 +1,4 @@
+id,nombre,habitantes,pbi_per_capita,continente,idioma,moneda
+NULL,argentina,47000000,9000,america,spanish,peso
+NULL,brazil,214000000,7000,america,portuguese,real
+NULL,united states,330000000,63500,america,english,us dollar
