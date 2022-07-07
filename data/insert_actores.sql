@@ -1,4 +1,4 @@
-/*
+actores/*
 -- Query: SELECT * FROM peliculasDB.actores
 LIMIT 0, 1000
 
